@@ -42,6 +42,6 @@ eg：
 ````
 
 ````
-{这,是,一个:dict,like,python}  ==> {("这","是","一个"):"dict,like,python"}
+{(这,是,一个):dict,like,python}  ==> {("这","是","一个"):"dict,like,python"}
 ````
 
